@@ -14,6 +14,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vishnu0-8/DSA_Problems_/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/vishnu0-8/DSA_Problems_/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vishnu0-8/DSA_Problems_/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/vishnu0-8/DSA_Problems_/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -13,6 +13,7 @@
 | [0162-find-peak-element](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vishnu0-8/DSA_Problems_/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0162-find-peak-element](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vishnu0-8/DSA_Problems_/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |

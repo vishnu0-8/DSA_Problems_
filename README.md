@@ -36,4 +36,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

@@ -62,4 +62,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->

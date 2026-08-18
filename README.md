@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0162-find-peak-element) |
+| [0283-move-zeroes](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vishnu0-8/DSA_Problems_/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0680-valid-palindrome-ii) |
 ## String

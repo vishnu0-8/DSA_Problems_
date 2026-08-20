@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0035-search-insert-position) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0283-move-zeroes) |
@@ -81,4 +83,5 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->

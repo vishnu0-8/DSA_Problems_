@@ -19,10 +19,12 @@
 | [0704-binary-search](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vishnu0-8/DSA_Problems_/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vishnu0-8/DSA_Problems_/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vishnu0-8/DSA_Problems_/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0001-two-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vishnu0-8/DSA_Problems_/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,4 +86,8 @@
 | ------- |
 | [0015-3sum](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0016-3sum-closest) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vishnu0-8/DSA_Problems_/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->

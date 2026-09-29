@@ -14,6 +14,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0704-binary-search) |
@@ -26,6 +27,7 @@
 | [0001-two-sum](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0217-contains-duplicate) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vishnu0-8/DSA_Problems_/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
@@ -97,6 +99,7 @@
 | ------- |
 | [0015-3sum](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
 | ------- |

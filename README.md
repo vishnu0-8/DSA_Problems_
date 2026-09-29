@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0141-linked-list-cycle) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vishnu0-8/DSA_Problems_/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
@@ -50,6 +51,7 @@
 | [0015-3sum](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0344-reverse-string) |
@@ -77,6 +79,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0141-linked-list-cycle) |
 | [0707-design-linked-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -92,4 +95,8 @@
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vishnu0-8/DSA_Problems_/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

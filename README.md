@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0142-linked-list-cycle-ii) |
@@ -123,5 +125,14 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

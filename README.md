@@ -59,6 +59,7 @@
 | [0125-valid-palindrome](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0283-move-zeroes) |
@@ -93,6 +94,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0707-design-linked-list) |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
@@ -135,4 +138,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->

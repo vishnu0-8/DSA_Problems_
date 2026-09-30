@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0142-linked-list-cycle-ii) |
@@ -113,5 +114,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

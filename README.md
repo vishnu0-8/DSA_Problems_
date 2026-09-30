@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0125-valid-palindrome](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0344-reverse-string) |
@@ -89,6 +91,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0876-middle-of-the-linked-list) |
@@ -101,6 +104,7 @@
 | ------- |
 | [0015-3sum](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0016-3sum-closest) |
+| [0148-sort-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
@@ -116,4 +120,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0206-reverse-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vishnu0-8/DSA_Problems_/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
